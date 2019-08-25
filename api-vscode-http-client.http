@@ -1,0 +1,12 @@
+
+###
+POST https://api-dev.onsi.in/auth/v1/register 
+
+Content-Type: application/json
+
+{
+  "email": "support@onsi.in"
+}
+
+###
+GET http://localhost:7500/
