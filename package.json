@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "dotenv": "^8.1.0",
-    "fastify": "^2.7.1"
+    "fastify": "^2.15.1"
   }
 }
